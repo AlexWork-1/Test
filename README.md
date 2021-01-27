@@ -6,5 +6,5 @@
 ## This is a subtitle
 
 
-1.Numeric list
-2.Something else
+1. Numeric list
+2. Something else
